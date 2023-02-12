@@ -1,2 +1,4 @@
 setup.sh
 /node_modules
+artifacts/
+cache/
